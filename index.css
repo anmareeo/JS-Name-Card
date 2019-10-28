@@ -1,0 +1,63 @@
+.back {
+    background-color: (73 73 73);
+}
+
+.container {
+    display: inline-grid;
+    margin:35vh 45vw 35vh 40vw;
+    border-radius: 14px;
+    border: 1px solid black;
+    width: 180px;
+    height: 135px;
+    grid-template-columns: 180px;
+    grid-template-rows: 35px 20px 15px 35px 20px 10px;
+    text-align: center;
+    background: red;
+    }
+  .hello {
+    align-content: center;
+    width: 100%;
+    color: white;
+    font-family:Verdana;
+    font-size: x-large;
+    font-style: bold;
+    vertical-align: center;
+       
+  }
+
+  .my {
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    background: red;
+    color: white;
+    font-family:verdana;
+    font-size:small;
+    
+  }
+  .blank {
+    align-items: center;
+    background: white;  
+    width: 100%;
+  }
+
+ .name {
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    background: white;
+    color: black;
+    font-family: verdana;
+    font-size:xx-large;
+  }
+
+  .blank1 {
+    align-items: center;
+    background: white;  
+    width: 100%;
+
+  }
+  .blank2 {
+    align-items: center;
+    width: 100%;
+  }
